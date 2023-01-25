@@ -1,4 +1,4 @@
-package test.app.composetestapp
+package test.app.composetestapp.examples
 
 import android.content.res.Configuration
 import android.os.Bundle
